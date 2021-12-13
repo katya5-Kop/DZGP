@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\bin\Debug\GP.exe.config
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\bin\Debug\GP.exe
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\bin\Debug\GP.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\GP.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\App.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\GP_MarkupCompile.cache
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\GP_MarkupCompile.lref
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\MainWindow.baml
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\GP.g.resources
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\GP.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\GP.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\GP.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\GP.exe
+C:\Users\Acer\OneDrive\Рабочий стол\g\GP\GP\obj\Debug\GP.pdb
